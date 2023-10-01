@@ -54,7 +54,3 @@ Contributions are welcome! If you want to contribute to this project, please fol
 
 This project is licensed under the MIT License.
 
-### Acknowledgments
-
-Special thanks to the creators of the transcription, translation, and NER APIs used in this project.
-
