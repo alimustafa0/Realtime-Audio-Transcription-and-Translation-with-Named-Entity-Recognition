@@ -27,7 +27,7 @@ The application utilizes cutting-edge speech-to-text technology for transcriptio
 ### Installation
 
 1. Clone the repository.
-    git clone https://github.com/yourusername/your-repo.git
+    git clone [https://github.com/yourusername/your-repo.git](https://github.com/alimustafa0/Realtime-Audio-Transcription-and-Translation-with-Named-Entity-Recognition.git)
 
 2. Install the required Python libraries.
     pip install -r requirements.txt
