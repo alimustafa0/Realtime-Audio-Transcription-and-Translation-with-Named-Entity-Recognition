@@ -22,7 +22,6 @@ The application utilizes cutting-edge speech-to-text technology for transcriptio
 
 - Python (version x.x)
 - Required Python libraries (list them)
-- API keys for the transcription, translation, and NER services (include links to obtain them)
 
 ### Installation
 
@@ -31,11 +30,6 @@ The application utilizes cutting-edge speech-to-text technology for transcriptio
 
 2. Install the required Python libraries.
     pip install -r requirements.txt
-
-3. Configure API keys in config.py.
-    TRANSCRIPTION_API_KEY = 'your_transcription_api_key'
-    TRANSLATION_API_KEY = 'your_translation_api_key'
-    NER_API_KEY = 'your_ner_api_key'
 
 ### Usage
 
