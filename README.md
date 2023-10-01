@@ -42,7 +42,7 @@ The application utilizes cutting-edge speech-to-text technology for transcriptio
 
 ### Contributing
 
-Contributions are welcome! If you want to contribute to this project, please follow our Contribution Guidelines.
+Contributions are welcome!
 
 ### License
 
